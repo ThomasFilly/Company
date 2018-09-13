@@ -1,16 +1,16 @@
 # Editeur de Logiciel E-commerce
 
-  Si vous aussi vous pensez que le **E-commerce** n'en n'est qu'à son balbutiement, vous partagez la vision de cette entreprise.
+  Si vous aussi vous pensez que le **E-commerce** n'en est qu'à son balbutiement, vous partagez la vision de cette entreprise.
 
 ## Domaine ##
 
- Créé il y'a 17 ans ce groupe est à l'origine une agence marketing qui a fait le virage d'édition de logiciel. la solution proposée et une alternative **SASS** à Magento et DemandWare, ses principaux concurrent. Si vous avez envie de challenger ces deux mastodontes du **E-commerce** vous frappez à la bonne porte !
+ Créé il y'a 17 ans ce groupe est à l'origine une agence marketing qui a fait le virage d'édition de logiciels. La solution proposée et une alternative **SASS** à Magento et DemandWare, ses principaux concurrents. Si vous avez envie de challenger ces deux mastodontes du **E-commerce** vous frappez à la bonne porte !
 
 ## Le job ##
 
  Le job est simple : 
- * Premièrement, vous êtes en charge du **développement spécifique** et du maintient de la solution. Si un client à besoin d'une fonctionnalité, développez la et déployez la aux autres ;)
- * Secondement, vous particpez à la **migration** de la partie middleware en Symfony.
+ * Premièrement, vous êtes en charge du **développement spécifique** et du maintien de la solution. Si un client a besoin d'une fonctionnalité, développez la et déployez-la aux autres ;)
+ * Secondement, vous participez à la **migration** de la partie middleware en Symfony.
  *la stack : PHP 7, Symfony 3.4, MySQL, ElasticSearch, Redis, JavaScript*
  
  ## Le profil ## 
@@ -20,6 +20,8 @@
  * Autonome et savoir évoluer dans un contexte Agile
  * Avoir surtout l'envie de rejoindre l'aventure
  
+ **Où** Paris 8ème 
+ **Conditions** rémunération en fonction de l'expérience
  
 *pour postuler, thomas@gentisrecruitment.com*
  
