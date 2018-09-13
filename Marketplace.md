@@ -1,4 +1,4 @@
-# Marketplace de l'energie :computer: :buy: #
+# :computer: :money_with_wings: Marketplace de l'energie :computer: :money_with_wings: #
 
 Cette entreprise vous propose d'acheter des combustibles afin de chauffer votre maison. Domaine fonctionnel ennuyeux ? Detrompez-vous car la problématique réside dans l'affichage de l'offre et de la demande en temps réel ! 
 
@@ -10,7 +10,7 @@ Cette entreprise vous propose d'acheter des combustibles afin de chauffer votre 
 ## Le job ##
 
  Le job est simple : 
- * Premièrement, vous serez en charge de l'implémentation de nouvelles fonctionnalités et d'être garant de la perfomance de la marketplace historique.
+ * Premièrement, vous serez en charge de l'implémentation de nouvelles fonctionnalités et d'être garant de la perfomance :zap: de la marketplace historique.
  * Secondement, vous participerez à un nouveau projet, une nouvelle marketplace pour un tout nouveau produit...
  *la stack : PHP 7, Symfony 2.8 > 4, MySQL, ElasticSearch, Redis, Memcache, JavaScript*
  
