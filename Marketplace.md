@@ -5,12 +5,12 @@ Cette entreprise vous propose d'acheter des combustibles afin de chauffer votre 
 
 ## Domaine ##
 
- Créé il y'a 17 ans ce groupe est à l'origine une agence marketing qui a fait le virage d'édition de logiciels. La solution proposée et une alternative **SASS** à Magento et DemandWare, ses principaux concurrents. Si vous avez envie de challenger ces deux mastodontes du **E-commerce** vous frappez à la bonne porte !
+ Depuis 2012, cette entreprise perment d'acheter et vendre des combustibles afin de chauffer vos logements. Classé dans **le top 30 des acteurs du E-commerce** selon le magasine e-commerce ce client vous propose un challenge de taille : affichage de prix en temps réel, algorythmie complexe seront votre quotidien.
 
 ## Le job ##
 
  Le job est simple : 
- * Premièrement, vous êtes en charge du **développement spécifique** et du maintien de la solution. Si un client a besoin d'une fonctionnalité, développez la et déployez-la aux autres ;)
+ * Premièrement, vous serez en charge de l'implémentation de nouvelles fonctionnalités 
  * Secondement, vous participez à la **migration** de la partie middleware en Symfony.
  *la stack : PHP 7, Symfony 3.4, MySQL, ElasticSearch, Redis, JavaScript*
  
