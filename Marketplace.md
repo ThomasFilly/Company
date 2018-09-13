@@ -1,4 +1,4 @@
-# Marketplace de l'energie :computer: :caddy: #
+# Marketplace de l'energie :computer: :buy: #
 
 Cette entreprise vous propose d'acheter des combustibles afin de chauffer votre maison. Domaine fonctionnel ennuyeux ? Detrompez-vous car la problématique réside dans l'affichage de l'offre et de la demande en temps réel ! 
 
