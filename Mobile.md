@@ -20,7 +20,7 @@ Votre rôle au sein de cette entreprise est de faire le lien entre les équipes 
 * Capacité de gestion de projet
 
 **Où** Paris 9ème arrondissement 
-**Conditions** 50-65k + titre restaurant + mutuelle + 50% des titres de transport
+**Conditions** 50-65k + tickets restaurant + mutuelle + 50% des titres de transport
 
 *Si vous êtes intéressé, postulez sur thomas@gentisrecruitment.com*
  
